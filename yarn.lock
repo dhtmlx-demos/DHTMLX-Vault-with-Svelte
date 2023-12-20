@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@dhx/trial-eventcalendar@^2.1.2":
-  version "2.1.2"
-  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-eventcalendar/-/trial-eventcalendar-2.1.2.tgz#b136de5887adeb79cdb323baa41cc4b2054a40f5"
-  integrity sha512-Fe5FXt3d2Db3aiJl6T1fCgetMK8ISX8Sr6mwsMBUUsEiaUcFy/or9o8+6j7kY3RynpvnLzuhTUfkHWzMLE1rMg==
+"@dhx/trial-vault@^4.1.4":
+  version "4.1.4"
+  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-vault/-/trial-vault-4.1.4.tgz#5987bc4565a74235afc9e36e0a0d28a6236d6a30"
+  integrity sha512-C6WSKNtgFf+2ayn68FszmNmroWNEfkSe3bCNL5LS/bT6npPfiYQfAXVFXZgAetHWifPdCzrKZTGnQ4uiJBXy1Q==
 
 "@jridgewell/gen-mapping@^0.3.0":
   version "0.3.3"

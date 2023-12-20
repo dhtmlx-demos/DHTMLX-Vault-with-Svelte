@@ -12,7 +12,7 @@
     "sirv-cli": "^2.0.2"
   },
   "dependencies": {
-    "@dhx/trial-eventcalendar": "^2.1.2",
+    "@dhx/trial-vault": "^4.1.4",
     "rollup-plugin-css-only": "^4.3.0",
     "svelte": "^3.59.2"
   },
